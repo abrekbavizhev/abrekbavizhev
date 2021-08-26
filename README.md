@@ -4,5 +4,6 @@
 [![Kaggle Badge](https://img.shields.io/badge/-abrbav-white?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/abrbav)](https://www.kaggle.com/abrbav)
 [![GitHub followers](https://img.shields.io/github/followers/AbrekBavizhev?style=social)](https://github.com/abrekbavizhev)
 ![Views](https://gpvc.arturio.dev/abrekbavizhev)  
-
--->
+<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrekbavizhev&theme=blue)](https://github.com/abrekbavizhev/github-readme-stats)  
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=abrekbavizhev&theme=blue)
